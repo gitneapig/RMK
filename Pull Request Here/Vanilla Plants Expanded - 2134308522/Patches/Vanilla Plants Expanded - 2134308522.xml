@@ -256,7 +256,7 @@
           <success>Always</success>
           <xpath>/Defs/ThingDef[defName="VCE_RawPlum"]/description</xpath>
           <value>
-            <description>특유의 다소 떫은 맛을 가지고 있어 요리, 특히 과일 보존식품과 잼에 널리 사용됩니다. 많은 문화권에서는 자두를 건조시켜 유통기한이 긴 말린 자두로 만듭니다.\n\n&amp;lt;color=#E5E54C&gt;특성:&amp;lt;/color&gt;상온에서 약 15일이 지나면 장기간 유통 가능한 말린 자두가 됩니다.</description>
+            <description>특유의 다소 떫은 맛을 가지고 있어 요리, 특히 과일 보존식품과 잼에 널리 사용됩니다. 많은 문화권에서는 자두를 건조하여 유통기한이 긴 말린 자두로 만듭니다.\n\n&amp;lt;color=#E5E54C&gt;특성:&amp;lt;/color&gt;상온에서 약 15일이 지나면 장기간 유통 가능한 말린 자두가 됩니다.</description>
           </value>
         </li>
         <li Class="PatchOperationReplace">
@@ -270,7 +270,7 @@
           <success>Always</success>
           <xpath>/Defs/ThingDef[defName="VCE_BananaTree"]/description</xpath>
           <value>
-            <description>이 바나나 나무는 21세기에 멸종이 일어날 뻔한 대규모 바나나병 감염 사태에서도 살아남도록 유전자 변형되었습니다. 이 품종도 한 번에 전체 "송이"를 수확할 수 있습니다.\n\n&amp;lt;color=#E5E54C&gt;특성:&amp;lt;/color&gt; 과일 나무는 일반 작물보다 약 4배의 공간을 더 차지하며, 열매를 맺는 데 오랜 시간이 걸립니다. 열매는 생으로 먹을 수 있으며, 수확해도 완전히 사라지지 않지만, 수명이 끝나면 새로 심어야 합니다.\n\n그로 미셀 바나나는 "송이" 단위로 수확하기 때문에, 다른 과일 나무들보다 빠르게 재배합니다.</description>
+            <description>이 품종은 21세기에 멸종이 일어날 뻔한 대규모 바나나병 감염 사태에서도 살아남도록 유전자 변형되었습니다. 다른 바나나 나무처럼 한 번에 전체 "송이"를 수확할 수 있습니다.\n\n&amp;lt;color=#E5E54C&gt;특성:&amp;lt;/color&gt; 과일 나무는 일반 작물보다 약 4배의 공간을 더 차지하며, 열매를 맺는 데 오랜 시간이 걸립니다. 열매는 생으로 먹을 수 있으며, 수확해도 완전히 사라지지 않지만, 수명이 끝나면 새로 심어야 합니다.\n\n그로 미셀 바나나는 "송이" 단위로 수확하기 때문에, 다른 과일 나무들보다 빠르게 재배합니다.</description>
           </value>
         </li>
         <li Class="PatchOperationReplace">
@@ -284,7 +284,7 @@
           <success>Always</success>
           <xpath>/Defs/ThingDef[defName="VCE_RawBanana"]/description</xpath>
           <value>
-            <description>그로 미셀 바나나는 캐번디시 바나나와는 다른 독특한 맛을 가지고 있습니다. 한때는 캐번디시 품종의 자리를 위협하기도 했었습니다.</description>
+            <description>그로 미셀 바나나는 캐번디시 바나나와는 다른 독특한 맛을 가지고 있습니다. 한때는 이 세상의 모든 바나나 공급을 책임지기도 했었습니다.</description>
           </value>
         </li>
         <li Class="PatchOperationReplace">
@@ -343,7 +343,7 @@
           <success>Always</success>
           <xpath>/Defs/ThingDef[defName="VCE_Eggplant"]/description</xpath>
           <value>
-            <description>식물학적으로 가지과에 속하는 둥글고 부드러운 맛있는 검은 밤색 과일입니다. 따뜻한 날씨에서 잘 자랍니다.\n\n&amp;lt;color=#E5E54C&gt;특성:&amp;lt;/color&gt; 블랙뷰티 가지는 섭씨 37°C~60°C에서 30% 더 빨리 자랍니다.</description>
+            <description>식물학적으로 가지과에 속하는 둥글고 부드러운 맛있는 검은 밤색 과일입니다. 잘 자라기 위해선 따뜻한 날씨가 필요합니다.\n\n&amp;lt;color=#E5E54C&gt;특성:&amp;lt;/color&gt; 블랙뷰티 가지는 섭씨 37°C~60°C에서 30% 더 빨리 자랍니다.</description>
           </value>
         </li>
         <li Class="PatchOperationReplace">
@@ -378,14 +378,14 @@
           <success>Always</success>
           <xpath>/Defs/ThingDef[defName="VCE_Grass"]/description</xpath>
           <value>
-            <description>재배된 사료용 풀입니다. 약간의 빛과 최소한의 양분만 있다면 어디서나 자라는 풀입니다.\n\n&amp;lt;color=#E5E54C&gt;특성:&amp;lt;/color&gt; 건초와 마찬가지로 소에게 먹일 수 있습니다. 병충해의 영향을 받지 않지만, 건초처럼 수확하여 보관할 수는 없습니다.</description>
+            <description>재배된 사료용 풀입니다. 약간의 빛과 최소한의 양분만 있다면 어디서나 자라는 풀입니다.\n\n&amp;lt;color=#E5E54C&gt;특성:&amp;lt;/color&gt; 건초와 마찬가지로 가축이 먹을 수 있습니다. 병충해의 영향을 받지 않지만, 건초처럼 수확하여 보관할 수는 없습니다.</description>
           </value>
         </li>
         <li Class="PatchOperationReplace">
           <success>Always</success>
           <xpath>/Defs/ThingDef[defName="VCE_TallGrass"]/description</xpath>
           <value>
-            <description>재배된 사료용 키 큰 풀입니다. 통과할 때 느려지고, 약간의 빛과 최소한의 양분만 있다면 어디서나 자라는 풀입니다.\n\n&amp;lt;color=#E5E54C&gt;특성:&amp;lt;/color&gt; 건초와 마찬가지로 소에게 먹일 수 있습니다. 병충해의 영향을 받지 않지만, 건초처럼 수확하여 보관할 수는 없습니다.</description>
+            <description>재배된 사료용 키 큰 풀입니다. 통과할 때 느려지고, 약간의 빛과 최소한의 양분만 있다면 어디서나 자라는 풀입니다.\n\n&amp;lt;color=#E5E54C&gt;특성:&amp;lt;/color&gt; 건초와 마찬가지로 가축이 먹을 수 있습니다. 병충해의 영향을 받지 않지만, 건초처럼 수확하여 보관할 수는 없습니다.</description>
           </value>
         </li>
       </operations>
