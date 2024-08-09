@@ -2192,7 +2192,7 @@
           <success>Always</success>
           <xpath>/Defs/ThingDef[defName="SimpleProstheticWingAnimal"]/description</xpath>
           <value>
-            <description>동물 날개 보철물입니다. 신경 연결 요소가 부족하지만, 내부 관절과 날개 막의 정밀한 배열 덕분에 자연스러운 움직임이 가능합니다. 그렇지만 실제 동물 날개보다는 못합니다. 날개가 필요한 이식 가능합니다.</description>
+            <description>동물 날개 보철물입니다. 신경 연결 요소가 부족하지만, 내부 관절과 날개 막의 정밀한 배열 덕분에 자연스러운 움직임이 가능합니다. 그렇지만 실제 동물 날개보다는 못합니다. 날개가 필요한 동물에게 이식 가능합니다.</description>
           </value>
         </li>
         <li Class="PatchOperationReplace">
