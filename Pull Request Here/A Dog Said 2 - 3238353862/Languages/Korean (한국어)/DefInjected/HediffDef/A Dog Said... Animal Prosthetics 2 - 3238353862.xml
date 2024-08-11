@@ -31,7 +31,7 @@
   <BionicTongueAnimal.description>이식된 생체공학 동물 혀입니다. 부드러운 합성 섬유와 뉴로겔 인터페이스가 연결되어 있어 먹기, 맛보기 등 생체 혀만큼의 감각을 느낄 수 있습니다.</BionicTongueAnimal.description>
   <BionicJawAnimal.label>생체공학 동물 턱</BionicJawAnimal.label>
   <BionicJawAnimal.labelNoun>생체공학 동물 턱</BionicJawAnimal.labelNoun>
-  <BionicJawAnimal.description>이식된 생체공학 동물 턱입니다. 무소음 소형 자동 제어장치는 강력한 턱 힘을 제공합니다. 미세 격자 치유 시스템으로 손상에 대해 회복도 가능합니다. 거의 모든 면에서 생물학적 턱보다 월등합니다.</BionicJawAnimal.description>
+  <BionicJawAnimal.description>이식된 생체공학 동물 턱입니다. 무소음 소형 자동 제어장치는 강력한 턱 힘을 제공하고, 미세 격자 치유 시스템으로 손상에 대해 회복도 가능합니다. 거의 모든 면에서 생물학적 턱보다 월등합니다.</BionicJawAnimal.description>
   <WoodenPawAnimal.label>목재 육구</WoodenPawAnimal.label>
   <WoodenPawAnimal.labelNoun>목재 육구</WoodenPawAnimal.labelNoun>
   <WoodenPawAnimal.description>이식된 나무 발입니다. 약간의 안정성을 주지만, 세밀한 조작은 힘듭니다.</WoodenPawAnimal.description>
@@ -44,11 +44,11 @@
   <SimpleProstheticLegAnimal.label>동물 의족</SimpleProstheticLegAnimal.label>
   <SimpleProstheticLegAnimal.labelNoun>동물 의족</SimpleProstheticLegAnimal.labelNoun>
   <SimpleProstheticLegAnimal.description>이식된 동물 다리 보철물입니다. 신경 연결 요소가 부족하지만, 내부 관절의 정밀한 배열 덕분에 자연스러운 움직임이 가능합니다. 그렇지만 실제 동물 다리보다는 못합니다.</SimpleProstheticLegAnimal.description>
-  <SimpleProstheticLegAnimal.comps.0.tools.0.label>다리</SimpleProstheticLegAnimal.comps.0.tools.0.label>
+  <SimpleProstheticLegAnimal.comps.HediffComp_VerbGiver.tools.prothetic_animal_leg.label>다리</SimpleProstheticLegAnimal.comps.HediffComp_VerbGiver.tools.prothetic_animal_leg.label>
   <SimpleProstheticArmAnimal.label>동물 의수</SimpleProstheticArmAnimal.label>
   <SimpleProstheticArmAnimal.labelNoun>동물 의수</SimpleProstheticArmAnimal.labelNoun>
   <SimpleProstheticArmAnimal.description>이식된 동물 팔 보철물입니다. 신경 연결 요소가 부족하지만, 내부 관절의 정밀한 배열 덕분에 자연스러운 움직임이 가능합니다. 그렇지만 실제 동물 팔보다는 못합니다.</SimpleProstheticArmAnimal.description>
-  <SimpleProstheticArmAnimal.comps.0.tools.0.label>주먹</SimpleProstheticArmAnimal.comps.0.tools.0.label>
+  <SimpleProstheticArmAnimal.comps.HediffComp_VerbGiver.tools.fist.label>주먹</SimpleProstheticArmAnimal.comps.HediffComp_VerbGiver.tools.fist.label>
   <SimpleProstheticHeartAnimal.label>동물 인공심장</SimpleProstheticHeartAnimal.label>
   <SimpleProstheticHeartAnimal.labelNoun>동물 인공심장</SimpleProstheticHeartAnimal.labelNoun>
   <SimpleProstheticHeartAnimal.description>이식된 인공 동물 심장 보철물입니다. 혈액을 순환시키는 전동 모터가 포함되어 있습니다. 주인은 동물이 피로감을 느끼는 부작용을 보게 되지만, 그래도 심장이 없는 것보다는 상태가 좋을 겁니다.</SimpleProstheticHeartAnimal.description>
