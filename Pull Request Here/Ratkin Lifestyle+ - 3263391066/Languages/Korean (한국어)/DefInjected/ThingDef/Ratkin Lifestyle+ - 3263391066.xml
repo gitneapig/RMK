@@ -35,7 +35,7 @@
   <RL_Paint_Shout.label>"절규"</RL_Paint_Shout.label>
   <RL_Paint_Shout.description>그림에는 쥐에 놀라 겁에 질린 사람이 그려져 있습니다.</RL_Paint_Shout.description>
   <RL_Paint_Traveler.label>"안개 바다 위의 랫킨"</RL_Paint_Traveler.label>
-  <RL_Paint_Traveler.description>그림에는 언덕 위에 서 있는 랫킨 병사가 그려져 있습니다.</RL_Paint_Traveler.description>
+  <RL_Paint_Traveler.description>그림에는 언덕 위에 서 있는 랫킨 군인이 그려져 있습니다.</RL_Paint_Traveler.description>
   <RL_Paint_VanGogh.label>"자화상"</RL_Paint_VanGogh.label>
   <RL_Paint_VanGogh.description>그림에는 이름 없는 랫킨이 그려져 있습니다.</RL_Paint_VanGogh.description>
   <RL_Paint_MonaLisa.label>"모나리자"</RL_Paint_MonaLisa.label>
@@ -56,16 +56,4 @@
   <RL_WineBarrel.description>빈 발효통 여러 개가 쌓여 있습니다.</RL_WineBarrel.description>
   <RL_Statue.label>기사 동상</RL_Statue.label>
   <RL_Statue.description>위엄 있는 랫킨 기사의 동상입니다.</RL_Statue.description>
-  <RK_ApronSkirt_Child.label>아동용 랫킨 에이프런 스커트</RK_ApronSkirt_Child.label>
-  <RK_ApronSkirt_Child.description>자라나는 어린이를 위한 앞치마가 달린 간단한 의류입니다.</RK_ApronSkirt_Child.description>
-  <RK_SisterDress_Child.label>아동용 랫킨 수녀복</RK_SisterDress_Child.label>
-  <RK_SisterDress_Child.description>어린 수녀가 입는 단아한 원피스입니다.</RK_SisterDress_Child.description>
-  <RK_GaurdenUniform_Child.label>아동용 랫킨 정원사 의복</RK_GaurdenUniform_Child.label>
-  <RK_GaurdenUniform_Child.description>어린 정원 지킴이들이 입는 정장입니다. 약간의 방열 효과도 있습니다.</RK_GaurdenUniform_Child.description>
-  <RK_OrderUniform_Child.label>아동용 랫킨 제복</RK_OrderUniform_Child.label>
-  <RK_OrderUniform_Child.description>어린이를 위해 디자인된 제식 전투복입니다. \n\n이 옷을 입은 아이가 있다면,  상황이 매우 심각하다는 것을 의미합니다.</RK_OrderUniform_Child.description>
-  <RK_WinterRobe_Child.label>아동용 랫킨 겨울예복</RK_WinterRobe_Child.label>
-  <RK_WinterRobe_Child.description>어린이를 위해 디자인된 무거운 예복입니다. 매우 따뜻합니다.</RK_WinterRobe_Child.description>
-  <RK_BulletProofHelmet_Child.label>아동용 랫킨 군용헬멧</RK_BulletProofHelmet_Child.label>
-  <RK_BulletProofHelmet_Child.description>어린이를 위해 디자인된 군용 헬멧입니다. \n\n이 헬멧을 쓴 아이가 있다면,  상황이 매우 심각하다는 것을 의미합니다.</RK_BulletProofHelmet_Child.description>
 </LanguageData>
