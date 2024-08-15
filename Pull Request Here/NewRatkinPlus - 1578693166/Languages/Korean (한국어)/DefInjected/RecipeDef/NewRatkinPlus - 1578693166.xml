@@ -12,8 +12,8 @@
   <Make_RK_StrawberryBeer.label>딸기맥주 만들기</Make_RK_StrawberryBeer.label>
   <Make_RK_StrawberryBeer.description>딸기와 맥주를 섞어 딸기맥주를 만듭니다.</Make_RK_StrawberryBeer.description>
   <Make_RK_StrawberryBeer.jobString>딸기맥주 만드는 중</Make_RK_StrawberryBeer.jobString>
-  <Make_RK_StrawberryBeer_Bulk.label>딸기맥주 만들기 x4</Make_RK_StrawberryBeer_Bulk.label>
-  <Make_RK_StrawberryBeer_Bulk.description>맥주와 딸기를 섞어 딸기맥주를 만듭니다.</Make_RK_StrawberryBeer_Bulk.description>
+  <Make_RK_StrawberryBeer_Bulk.label>딸기맥주 x4 만들기</Make_RK_StrawberryBeer_Bulk.label>
+  <Make_RK_StrawberryBeer_Bulk.description>딸기와 맥주를 섞어 딸기맥주를 만듭니다.</Make_RK_StrawberryBeer_Bulk.description>
   <Make_RK_StrawberryBeer_Bulk.jobString>딸기맥주 x4 만드는 중</Make_RK_StrawberryBeer_Bulk.jobString>
   <Make_RK_ApronSkirt.label>랫킨 에이프런 스커트 제작</Make_RK_ApronSkirt.label>
   <Make_RK_ApronSkirt.description>랫킨 에이프런 스커트를 제작합니다.</Make_RK_ApronSkirt.description>

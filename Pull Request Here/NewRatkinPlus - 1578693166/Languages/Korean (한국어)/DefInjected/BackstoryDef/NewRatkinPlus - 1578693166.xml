@@ -7,7 +7,7 @@
   <Ratkin_LandRat.titleShort>땅쥐</Ratkin_LandRat.titleShort>
   <Ratkin_LandRat.description>[PAWN_nameDef](은)는 암흑 속에서 태어났습니다. 오랜 동굴 생활을 하며 [PAWN_pronoun]는 땅을 파는 일이 능숙하지만 한편으로 많은 동족이 지상으로 나갈 때 이를 뒤로했습니다.</Ratkin_LandRat.description>
   <Ratkin_CountryKid.title>랫킨 시골 어린이</Ratkin_CountryKid.title>
-  <Ratkin_CountryKid.titleShort>시골 어린이</Ratkin_CountryKid.titleShort>
+  <Ratkin_CountryKid.titleShort>시골 아이</Ratkin_CountryKid.titleShort>
   <Ratkin_CountryKid.description>[PAWN_nameDef]의 조부모는 농부였으며 부모님도 농부입니다. [PAWN_pronoun]는 자연 속에서 자라며 그 누구보다도 순수하게 자랐습니다. 운명의 순간이 오기 전까지는..</Ratkin_CountryKid.description>
   <Ratkin_ShepherdBoy.title>랫킨 어린 양치기</Ratkin_ShepherdBoy.title>
   <Ratkin_ShepherdBoy.titleFemale>랫킨 어린 양치기</Ratkin_ShepherdBoy.titleFemale>
@@ -50,7 +50,7 @@
   <Ratkin_MerchantKid.titleShort>상인의 자식</Ratkin_MerchantKid.titleShort>
   <Ratkin_MerchantKid.description>[PAWN_nameDef](은)는 상단의 아이로 태어났습니다. [PAWN_pronoun]는 부모 곁에서 어깨너머로 장사를 배우며 어떻게 해야 돈을 벌 수 있는지에 대해 잘 알고 있습니다.</Ratkin_MerchantKid.description>
   <Ratkin_Kid.title>랫킨 어린이</Ratkin_Kid.title>
-  <Ratkin_Kid.titleShort>어린이</Ratkin_Kid.titleShort>
+  <Ratkin_Kid.titleShort>아이</Ratkin_Kid.titleShort>
   <Ratkin_Kid.description>[PAWN_nameDef](은)는 평범한 아이입니다. 일반적인 가정에서 부모님들이 하는 일을 어깨너머로 이것저것 배웠습니다. 하지만 고등 교육을 받을 기회가 없어 전문적 지식을 쌓을 수 없었습니다.</Ratkin_Kid.description>
   <Ratkin_ServentChild.title>랫킨 하인의 자식</Ratkin_ServentChild.title>
   <Ratkin_ServentChild.titleShort>하인의 자식</Ratkin_ServentChild.titleShort>
@@ -59,7 +59,7 @@
   <Ratkin_HumanAssistant.titleShort>인간 조수</Ratkin_HumanAssistant.titleShort>
   <Ratkin_HumanAssistant.description>[PAWN_nameDef](은)는 인간의 조수로 어려서부터 작은 일들을 도왔습니다. 하지만 주인이 사고로 죽자 [PAWN_pronoun]는 스스로의 삶을 찾기 위해 길을 나섰습니다.</Ratkin_HumanAssistant.description>
   <Ratkin_CityKid.title>랫킨 도시 어린이</Ratkin_CityKid.title>
-  <Ratkin_CityKid.titleShort>도시 어린이</Ratkin_CityKid.titleShort>
+  <Ratkin_CityKid.titleShort>도시 아이</Ratkin_CityKid.titleShort>
   <Ratkin_CityKid.description>[PAWN_nameDef](은)는 도시에서 태어났습니다. [PAWN_pronoun]는 도시의 문명에 노출되어 다른 랫킨들과 달리 문물을 쉽게 이해할 수 있었습니다.</Ratkin_CityKid.description>
   <Ratkin_SlaveKid.title>랫킨 어린 노예</Ratkin_SlaveKid.title>
   <Ratkin_SlaveKid.titleShort>어린 노예</Ratkin_SlaveKid.titleShort>
@@ -144,7 +144,7 @@
   <Ratkin_ArmySurgeon.description>[PAWN_nameDef](은)는 전쟁터 속에서 랫킨을 살리는 의사였습니다. 아무리 작은 생명이지만 [PAWN_pronoun]에게는 동족이며 사명감이 있기에 자원하였지만 결국 바뀌는 것이 없다는 사실에 떠났습니다.</Ratkin_ArmySurgeon.description>
   <Ratkin_ConstructionWorker.title>랫킨 건설 노동자</Ratkin_ConstructionWorker.title>
   <Ratkin_ConstructionWorker.titleShort>건설 노동자</Ratkin_ConstructionWorker.titleShort>
-  <Ratkin_ConstructionWorker.description>[PAWN_nameDef](은)는 건축현장에서 일하는 노동가입니다. [PAWN_pronoun]는 주로 지하 갱도를 건설하는 일을 해왔습니다.</Ratkin_ConstructionWorker.description>
+  <Ratkin_ConstructionWorker.description>[PAWN_nameDef](은)는 건축현장에서 일하는 노동자입니다. [PAWN_pronoun]는 주로 지하 갱도를 건설하는 일을 해왔습니다.</Ratkin_ConstructionWorker.description>
   <Ratkin_Rich.title>랫킨 대부호</Ratkin_Rich.title>
   <Ratkin_Rich.titleShort>대부호</Ratkin_Rich.titleShort>
   <Ratkin_Rich.description>[PAWN_nameDef](은)는 남을 속여 돈을 버는데 뛰어난 재능이 있었습니다. 하지만 머지않아 들통나게 되었고 [PAWN_pronoun]는 도망을 쳐야 할 수밖에 없었습니다.</Ratkin_Rich.description>
@@ -172,9 +172,9 @@
   <Ratkin_Engineer.title>랫킨 기술자</Ratkin_Engineer.title>
   <Ratkin_Engineer.titleShort>기술자</Ratkin_Engineer.titleShort>
   <Ratkin_Engineer.description>[PAWN_nameDef](은)는 공학자로 정밀 부품들을 만드는 일을 해왔습니다. [PAWN_pronoun]는 자신의 재주를 살려 메카노이드를 만들었었지만 그것이 화근이 될 줄은 몰랐습니다.</Ratkin_Engineer.description>
-  <Ratkin_Agriculturist.title>랫킨 농업학자</Ratkin_Agriculturist.title>
-  <Ratkin_Agriculturist.titleShort>농업학자</Ratkin_Agriculturist.titleShort>
-  <Ratkin_Agriculturist.description>[PAWN_nameDef](은)는 랫킨의 농업을 더 발전시키고자 도시로 나온 농업학자입니다. [PAWN_pronoun]는 언젠가 자신의 고향으로 돌아가 농업을 발전시킬 그날을 꿈꾸고 있습니다.</Ratkin_Agriculturist.description>
+  <Ratkin_Agriculturist.title>랫킨 농학자</Ratkin_Agriculturist.title>
+  <Ratkin_Agriculturist.titleShort>농학자</Ratkin_Agriculturist.titleShort>
+  <Ratkin_Agriculturist.description>[PAWN_nameDef](은)는 랫킨의 농업을 더 발전시키고자 도시로 나온 농학자입니다. [PAWN_pronoun]는 언젠가 자신의 고향으로 돌아가 농업을 발전시킬 그날을 꿈꾸고 있습니다.</Ratkin_Agriculturist.description>
   <Ratkin_RatkinHunter.title>랫킨헌터</Ratkin_RatkinHunter.title>
   <Ratkin_RatkinHunter.titleShort>랫킨헌터</Ratkin_RatkinHunter.titleShort>
   <Ratkin_RatkinHunter.description>[PAWN_nameDef](은)는 도망친 랫킨을 잡아들이는 사냥꾼입니다. 하지만 어느 날 어린 도망자 랫킨을 보고 [PAWN_pronoun]는 자신의 일에 회의감을 느끼며 그대로 떠났습니다.</Ratkin_RatkinHunter.description>

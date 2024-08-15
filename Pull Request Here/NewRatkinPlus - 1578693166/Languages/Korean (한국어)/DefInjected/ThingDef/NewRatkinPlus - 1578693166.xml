@@ -10,7 +10,7 @@
   <RK_ElectricTailoringBench.description>랫킨용 빠른 의류 생산을 위한 작업대입니다. 전기 없이도 65% 속도로 작동합니다.</RK_ElectricTailoringBench.description>
   <RK_FueledSmithy.label>랫킨용 단조대</RK_FueledSmithy.label>
   <RK_FueledSmithy.description>랫킨용 무기와 도구를 생산하기 위한 작업대입니다. 나무를 태워 작동합니다.</RK_FueledSmithy.description>
-  <RK_ElectricSmithy.label>랫킨용 전기식 단조대</RK_ElectricSmithy.label>
+  <RK_ElectricSmithy.label>랫킨용 전기 단조대</RK_ElectricSmithy.label>
   <RK_ElectricSmithy.description>기계가 사용되지 않는 랫킨용 금속 무기와 도구를 생산하기 위한 작업대입니다. 전기로 작동합니다.</RK_ElectricSmithy.description>
   <RK_ThiefTunnel.label>쥐구멍</RK_ThiefTunnel.label>
   <RK_ThiefTunnel.description>쥐구멍입니다. 아무래도 체구가 작은 누군가가 드나들기 위해 벽에 구멍을 낸 것 같습니다.</RK_ThiefTunnel.description>
@@ -46,26 +46,26 @@
   <Ratkin.label>랫킨</Ratkin.label>
   <Ratkin.description>설치류 유전자와 흡사한 인간입니다. 출처는 알 수 없으나 주로 농경사회를 기반으로 한 왕정을 이루고 살고 있습니다. 일부 랫킨들은 도시에서 인간들과 함께 생활하고 있습니다. 여성 개체가 남성보다 많으며 외관상 성별 구분이 힘듭니다.</Ratkin.description>
   <Ratkin.tools.0.label>이빨</Ratkin.tools.0.label>
-  <Ratkin.tools.1.label>왼 주먹</Ratkin.tools.1.label>
-  <Ratkin.tools.2.label>오른 주먹</Ratkin.tools.2.label>
+  <Ratkin.tools.1.label>왼쪽 주먹</Ratkin.tools.1.label>
+  <Ratkin.tools.2.label>오른쪽 주먹</Ratkin.tools.2.label>
   <Ratkin_Su.description>설치류 유전자와 흡사한 인간입니다. 출처는 알 수 없으나 주로 농경사회를 기반으로 한 왕정을 이루고 살고 있습니다. 일부 랫킨들은 도시에서 인간들과 함께 생활하고 있습니다. 여성 개체가 남성보다 많으며 외관상 성별 구분이 힘듭니다.</Ratkin_Su.description>
   <Ratkin_Su.label>랫킨 실험체</Ratkin_Su.label>
   <Ratkin_Su.tools.0.label>이빨</Ratkin_Su.tools.0.label>
-  <Ratkin_Su.tools.1.label>왼 주먹</Ratkin_Su.tools.1.label>
-  <Ratkin_Su.tools.2.label>오른 주먹</Ratkin_Su.tools.2.label>
+  <Ratkin_Su.tools.1.label>왼쪽 주먹</Ratkin_Su.tools.1.label>
+  <Ratkin_Su.tools.2.label>오른쪽 주먹</Ratkin_Su.tools.2.label>
   <RK_KingHamster.label>대왕 햄스터</RK_KingHamster.label>
   <RK_KingHamster.description>큰 햄스터입니다. 성격은 온순해지는 대신 덩치가 엄청 커졌습니다. 여전히 지능 수준은 햄스터와 같지만 길들여서 짐꾼으로 쓸 수 있을 것 같습니다. 더운 온도에 비교적 잘 적응합니다.</RK_KingHamster.description>
   <RK_KingHamster.tools.0.label>머리</RK_KingHamster.tools.0.label>
-  <RK_KingHamster.tools.1.label>왼 손</RK_KingHamster.tools.1.label>
-  <RK_KingHamster.tools.2.label>오른 손</RK_KingHamster.tools.2.label>
+  <RK_KingHamster.tools.1.label>왼쪽 주먹</RK_KingHamster.tools.1.label>
+  <RK_KingHamster.tools.2.label>오른쪽 주먹</RK_KingHamster.tools.2.label>
   <RK_Leather_KingHamster.label>대왕 햄스터 가죽</RK_Leather_KingHamster.label>
   <RK_Leather_KingHamster.description>털이 풍만한 대왕 햄스터입니다. 햄스터 특유의 귀여움은 덩치가 커져도 알아볼 수 있습니다. 더운 환경에서 적응하기 좋습니다.</RK_Leather_KingHamster.description>
   <RK_Wool_KingHamster.label>대왕 햄스터 털</RK_Wool_KingHamster.label>
   <RK_Wool_KingHamster.description>부드럽고 가벼운 좋은 단열재입니다. 대왕 햄스터 털옷은 통풍성과 보온성이 뛰어나 극지방이나 사막에서 활동하기 좋습니다.</RK_Wool_KingHamster.description>
   <Rotti.label>로티</Rotti.label>
   <Rotti.description>조금 크고 약간의 지능을 갖춘 쥐입니다.</Rotti.description>
-  <Rotti.tools.0.label>왼 발톱</Rotti.tools.0.label>
-  <Rotti.tools.1.label>오른 발톱</Rotti.tools.1.label>
+  <Rotti.tools.0.label>왼쪽 발톱</Rotti.tools.0.label>
+  <Rotti.tools.1.label>오른쪽 발톱</Rotti.tools.1.label>
   <Rotti.tools.3.label>머리</Rotti.tools.3.label>
   <RK_FakeEar.label>가짜 랫킨 귀</RK_FakeEar.label>
   <RK_FakeEar.description>천으로 만들어진 가짜 귀입니다. 랫킨의 큰 귀는 단순히 소리를 듣는 것뿐만 아닌 하나의 상징이자 랫킨 사회에서의 큰 의미를 갖습니다.</RK_FakeEar.description>
@@ -192,11 +192,11 @@
   <RK_Gunlance_SpreadType.comps.CompGunlanceFuel.outOfFuelMessage>새 용격탄(방사형) 필요</RK_Gunlance_SpreadType.comps.CompGunlanceFuel.outOfFuelMessage>
   <GunlanceExplosion.label>폭발</GunlanceExplosion.label>
   <RK_WyvernAmmo_NormalType.label>용격탄(일반형)</RK_WyvernAmmo_NormalType.label>
-  <RK_WyvernAmmo_NormalType.description>화약으로 가득 찬 포탄입니다. 건랜스에서 사용 할 수 있습니다. 손상되면 폭발합니다.</RK_WyvernAmmo_NormalType.description>
-  <RK_WyvernAmmo_NormalType.comps.0.useLabel>용격탄(일반형) 장전</RK_WyvernAmmo_NormalType.comps.0.useLabel>
+  <RK_WyvernAmmo_NormalType.description>화약으로 가득 찬 포탄입니다. 건랜스에서 사용 할 수 있습니다. 피해를 입으면 폭발합니다.</RK_WyvernAmmo_NormalType.description>
+  <RK_WyvernAmmo_NormalType.comps.CompUsable.useLabel>용격탄(일반형) 장전</RK_WyvernAmmo_NormalType.comps.CompUsable.useLabel>
   <RK_WyvernAmmo_SpreadType.label>용격탄(방사형)</RK_WyvernAmmo_SpreadType.label>
-  <RK_WyvernAmmo_SpreadType.description>화약으로 가득 찬 포탄입니다. 건랜스에서 사용 할 수 있습니다. 손상되면 폭발합니다.</RK_WyvernAmmo_SpreadType.description>
-  <RK_WyvernAmmo_SpreadType.comps.0.useLabel>용격탄(방사형) 장전</RK_WyvernAmmo_SpreadType.comps.0.useLabel>
+  <RK_WyvernAmmo_SpreadType.description>화약으로 가득 찬 포탄입니다. 건랜스에서 사용 할 수 있습니다. 피해를 입으면 폭발합니다.</RK_WyvernAmmo_SpreadType.description>
+  <RK_WyvernAmmo_SpreadType.comps.CompUsable.useLabel>용격탄(방사형) 장전</RK_WyvernAmmo_SpreadType.comps.CompUsable.useLabel>
   <GunlancePreIgnition.label>점화</GunlancePreIgnition.label>
   <GunlanceAfterIgnition.label>점화</GunlanceAfterIgnition.label>
   <RK_Dagger.label>랫킨 대거</RK_Dagger.label>
@@ -309,7 +309,7 @@
   <Bullet_RK_Buck.label>벅탄</Bullet_RK_Buck.label>
   <Bullet_RK_Slug.label>슬러그탄</Bullet_RK_Slug.label>
   <RK_PrototypePulseRifle.label>랫킨 실험용 파동 소총</RK_PrototypePulseRifle.label>
-  <RK_PrototypePulseRifle.description>실험용 에너지 소총입니다. 실험용 랫킨들을 위해 제작되어 특수 망원렌즈가 근거리 원거리 모두 정밀하게 조준해 줍니다. 랫킨식 플레셰트 탄환에서 아이디어를 얻어 제작한 이 무기는 쇄기 모양의 고관통 에너지탄을 빠르게 발사합니다. 속사와 정밀사격 모드를 통해 상황에 따라 유동적으로 선택이 가능합니다.</RK_PrototypePulseRifle.description>
+  <RK_PrototypePulseRifle.description>실험용 에너지 소총입니다. 실험용 랫킨들을 위해 제작되어 특수 망원렌즈가 근거리 원거리 모두 정밀하게 조준해 줍니다. 랫킨식 플레셰트 탄환에서 아이디어를 얻어 제작한 이 무기는 쐐기 모양의 고관통 에너지탄을 빠르게 발사합니다. 속사와 정밀사격 모드를 통해 상황에 따라 유동적으로 선택이 가능합니다.</RK_PrototypePulseRifle.description>
   <RK_PrototypePulseRifle.verbs.Verb_Shoot.label>랫킨 실험용 파동 소총</RK_PrototypePulseRifle.verbs.Verb_Shoot.label>
   <RK_PrototypePulseRifle.tools.0.label>개머리판</RK_PrototypePulseRifle.tools.0.label>
   <RK_PrototypePulseRifle.tools.1.label>총열</RK_PrototypePulseRifle.tools.1.label>
@@ -320,6 +320,6 @@
   <RK_BFR.verbs.Verb_Shoot.label>BFR 3000</RK_BFR.verbs.Verb_Shoot.label>
   <RK_BFR.tools.0.label>개머리판</RK_BFR.tools.0.label>
   <RK_BFR.tools.1.label>총열</RK_BFR.tools.1.label>
-  <Bullet_BFR_AP.label>쐐기 총알 (AP)</Bullet_BFR_AP.label>
+  <Bullet_BFR_AP.label>쐐기 총알</Bullet_BFR_AP.label>
   <Bullet_BFR_SC.label>쐐기 총알 (SC)</Bullet_BFR_SC.label>
 </LanguageData>
