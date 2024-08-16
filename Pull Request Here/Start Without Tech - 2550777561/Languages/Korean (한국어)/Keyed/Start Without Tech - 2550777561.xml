@@ -1,5 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
+  <StartWithoutTechModName>Start Without Tech</StartWithoutTechModName>
   <RequiresRestartLabel>림월드를 재시작해야 설정이 적용됩니다</RequiresRestartLabel>
   <UseSelectedTechLevelLabel>새 게임의 기술 수준 적용하기</UseSelectedTechLevelLabel>
   <StartingTechLevelLabel>새 게임의 기술 수준</StartingTechLevelLabel>
