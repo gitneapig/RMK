@@ -28,7 +28,7 @@
   <VisibleRaidPoints_GorehulkAssault>가시괴인 공격</VisibleRaidPoints_GorehulkAssault>
   <VisibleRaidPoints_HateChanters>찬송하는 광신도</VisibleRaidPoints_HateChanters>
   <VisibleRaidPoints_Infestation>곤충 군락지 형성</VisibleRaidPoints_Infestation>
-  <VisibleRaidPoints_InsectJelly>곤충 젤리(이데올로기)</VisibleRaidPoints_InsectJelly>
+  <VisibleRaidPoints_InsectJelly>곤충 젤리 (이데올로기)</VisibleRaidPoints_InsectJelly>
   <VisibleRaidPoints_MechCluster>메카노이드 전초기지</VisibleRaidPoints_MechCluster>
   <VisibleRaidPoints_NoctolAttack>암귀 공격</VisibleRaidPoints_NoctolAttack>
   <VisibleRaidPoints_PitGateEmergence>지하 통로 열리는 중</VisibleRaidPoints_PitGateEmergence>
@@ -61,7 +61,7 @@
   <VisibleRaidPoints_BreakdownClampHighDesc>점수 초과: {0} 포인트로 계산합니다</VisibleRaidPoints_BreakdownClampHighDesc>
   <VisibleRaidPoints_BreakdownPreCalculatedPointsDesc>예측한 포인트</VisibleRaidPoints_BreakdownPreCalculatedPointsDesc>
   <VisibleRaidPoints_BreakdownTotal>최종 결과</VisibleRaidPoints_BreakdownTotal>
-  <VisibleRaidPoints_StorytellerRandomFactorDesc>이야기꾼 계수</VisibleRaidPoints_StorytellerRandomFactorDesc>
+  <VisibleRaidPoints_StorytellerRandomFactorDesc>이야기꾼: 무작위 계수</VisibleRaidPoints_StorytellerRandomFactorDesc>
   <VisibleRaidPoints_RaidArrivalModeFactorDesc>대상이 도착한 방식</VisibleRaidPoints_RaidArrivalModeFactorDesc>
   <VisibleRaidPoints_RaidStrategyFactorDesc>해당 세력의 전략</VisibleRaidPoints_RaidStrategyFactorDesc>
   <VisibleRaidPoints_RaidAgeRestrictionFactorDesc>어린 약탈자</VisibleRaidPoints_RaidAgeRestrictionFactorDesc>
@@ -71,7 +71,7 @@
   <VisibleRaidPoints_CrashedShipPartFactorDesc>메카노이드 함선</VisibleRaidPoints_CrashedShipPartFactorDesc>
   <VisibleRaidPoints_DeepDrillInfestationFactorDesc>곤충 굴 자극: 무작위 계수</VisibleRaidPoints_DeepDrillInfestationFactorDesc>
   <VisibleRaidPoints_InfestationFactorDesc>곤충 군락</VisibleRaidPoints_InfestationFactorDesc>
-  <VisibleRaidPoints_IntermediateTotalDesc>중간 합계</VisibleRaidPoints_IntermediateTotalDesc>
+  <VisibleRaidPoints_IntermediateTotalDesc>중간 점수</VisibleRaidPoints_IntermediateTotalDesc>
   <VisibleRaidPoints_AnimalInsanityMassCalcDesc>집단 동물 광란 보정치</VisibleRaidPoints_AnimalInsanityMassCalcDesc>
   <VisibleRaidPoints_CrashedShipPartMinDesc>메카노이드 조작 함선: 300 포인트로 계산합니다</VisibleRaidPoints_CrashedShipPartMinDesc>
   <VisibleRaidPoints_DeepDrillInfestationMinDesc>곤충 굴 자극: 200 포인트로 계산합니다</VisibleRaidPoints_DeepDrillInfestationMinDesc>
@@ -92,7 +92,7 @@
   <VisibleRaidPoints_HateChantersMinDesc>찬송하는 광신도: {0} 포인트로 계산합니다</VisibleRaidPoints_HateChantersMinDesc>
   <VisibleRaidPoints_HateChantersMinFactorDesc>찬송하는 광신도: 낮은 포인트에 대한 보정</VisibleRaidPoints_HateChantersMinFactorDesc>
   <VisibleRaidPoints_RaidStrategyMinDesc>해당 세력의 전략: {0} 포인트로 계산합니다</VisibleRaidPoints_RaidStrategyMinDesc>
-  <VisibleRaidPoints_FactionMinDesc>아군 지원: {0} 포인트로 계산합니다</VisibleRaidPoints_FactionMinDesc>
+  <VisibleRaidPoints_FactionMinDesc>세력: {0} 포인트로 계산합니다</VisibleRaidPoints_FactionMinDesc>
   <VisibleRaidPoints_PsychicRitualQualityDesc>초정신 의식 품질</VisibleRaidPoints_PsychicRitualQualityDesc>
   <VisibleRaidPoints_PsychicRitualQualityFactorDesc>초정신 의식 품질</VisibleRaidPoints_PsychicRitualQualityFactorDesc>
   <VisibleRaidPoints_PsychicRitualSiegeThreatDesc>초정신 의식 공성 위협</VisibleRaidPoints_PsychicRitualSiegeThreatDesc>
