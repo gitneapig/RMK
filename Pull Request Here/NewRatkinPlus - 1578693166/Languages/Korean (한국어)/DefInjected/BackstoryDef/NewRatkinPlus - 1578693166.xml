@@ -25,7 +25,7 @@
   <Ratkin_LittleLibrarian.description>사서를 부모로 둔 [PAWN_nameDef](은)는 책 더미 속에서 지냈습니다. [PAWN_pronoun]의 학문 수준은 많은 책을 통해 더 깊게 넓혀주었지만, 덕분에 안경 없이는 보기 힘든 시력을 갖게 되었습니다.</Ratkin_LittleLibrarian.description>
   <Ratkin_GoldenSpoon.title>랫킨 금수저</Ratkin_GoldenSpoon.title>
   <Ratkin_GoldenSpoon.titleShort>금수저</Ratkin_GoldenSpoon.titleShort>
-  <Ratkin_GoldenSpoon.description>[PAWN_nameDef](은)는 부유한 가정에서 태어났습니다. [PAWN_pronoun]는 다양한 미술품 사이에서 금지옥엽으로 자랐기 때문에 할 줄 아는 것은 그리 많지 않습니다.</Ratkin_GoldenSpoon.description>
+  <Ratkin_GoldenSpoon.description>[PAWN_nameDef](은)는 부유한 가문에서 태어났습니다. [PAWN_pronoun]는 다양한 미술품 사이에서 금지옥엽으로 자랐기 때문에 할 줄 아는 것은 그리 많지 않습니다.</Ratkin_GoldenSpoon.description>
   <Ratkin_Bastard.title>랫킨 서자</Ratkin_Bastard.title>
   <Ratkin_Bastard.titleShort>서자</Ratkin_Bastard.titleShort>
   <Ratkin_Bastard.description>[PAWN_nameDef](은)는 첩의 자식으로 태어났습니다. [PAWN_pronoun]는 서자의 삶을 원치 않기에 스스로의 길을 개척하고자 떠났습니다.</Ratkin_Bastard.description>
@@ -51,13 +51,13 @@
   <Ratkin_MerchantKid.description>[PAWN_nameDef](은)는 상단의 아이로 태어났습니다. [PAWN_pronoun]는 부모 곁에서 어깨너머로 장사를 배우며 어떻게 해야 돈을 벌 수 있는지에 대해 잘 알고 있습니다.</Ratkin_MerchantKid.description>
   <Ratkin_Kid.title>랫킨 어린이</Ratkin_Kid.title>
   <Ratkin_Kid.titleShort>평범한 아이</Ratkin_Kid.titleShort>
-  <Ratkin_Kid.description>[PAWN_nameDef](은)는 평범한 아이였습니다. [PAWN_pronoun]는 일반적인 가정에서 부모님들이 하는 일을 어깨너머로 이것저것 배웠습니다. 하지만 고등 교육을 받지 못하여 전문적인 지식은 쌓을 수 없었습니다.</Ratkin_Kid.description>
+  <Ratkin_Kid.description>[PAWN_nameDef](은)는 평범한 가정에서 태어났습니다. [PAWN_pronoun]는 일반적인 가정에서 부모님들이 하는 일을 어깨너머로 이것저것 배웠습니다. 하지만 고등 교육을 받지 못하여 전문적인 지식은 쌓을 수 없었습니다.</Ratkin_Kid.description>
   <Ratkin_ServentChild.title>랫킨 하인의 자식</Ratkin_ServentChild.title>
   <Ratkin_ServentChild.titleShort>하인의 자식</Ratkin_ServentChild.titleShort>
-  <Ratkin_ServentChild.description>[PAWN_nameDef](은)는 하인의 자식으로 태어났습니다. [PAWN_pronoun]도 법에 따라 하인이 되지만, 운명을 바꾸고자 도망쳤습니다.</Ratkin_ServentChild.description>
+  <Ratkin_ServentChild.description>[PAWN_nameDef](은)는 하인의 자식으로 태어났습니다. [PAWN_pronoun]도 법에 따라 하인이 되지만, 자신의 운명을 바꾸고자 도망쳤습니다.</Ratkin_ServentChild.description>
   <Ratkin_HumanAssistant.title>랫킨 인간 조수</Ratkin_HumanAssistant.title>
   <Ratkin_HumanAssistant.titleShort>인간 조수</Ratkin_HumanAssistant.titleShort>
-  <Ratkin_HumanAssistant.description>[PAWN_nameDef](은)는 인간의 조수로 어려서부터 작은 일들을 도왔습니다. [PAWN_pronoun]는 주인이 사고로 죽자, 스스로의 삶을 찾기 위해 길을 나섰습니다.</Ratkin_HumanAssistant.description>
+  <Ratkin_HumanAssistant.description>[PAWN_nameDef](은)는 인간의 조수로 어려서부터 작은 일들을 도왔습니다. 어느 날 주인이 사고로 죽자, [PAWN_pronoun]는 스스로의 삶을 찾기 위해 길을 나섰습니다.</Ratkin_HumanAssistant.description>
   <Ratkin_CityKid.title>랫킨 도시 어린이</Ratkin_CityKid.title>
   <Ratkin_CityKid.titleShort>도시 아이</Ratkin_CityKid.titleShort>
   <Ratkin_CityKid.description>[PAWN_nameDef](은)는 도시에서 태어났습니다. [PAWN_pronoun]는 도시의 문명에 노출되어 다른 랫킨들과 달리 문물을 쉽게 이해할 수 있었습니다.</Ratkin_CityKid.description>
@@ -87,13 +87,13 @@
   <Ratkin_Hunter.description>[PAWN_nameDef](은)는 짐승들을 사냥하는 사냥꾼입니다. [PAWN_pronoun]는 다른 랫킨과 달리 시력이 좋아 먼 곳에서도 움직이는 동물들을 잘 볼 수 있었습니다.</Ratkin_Hunter.description>
   <Ratkin_Shepherd.title>랫킨 목동</Ratkin_Shepherd.title>
   <Ratkin_Shepherd.titleShort>목동</Ratkin_Shepherd.titleShort>
-  <Ratkin_Shepherd.description>[PAWN_nameDef]은 목장을 운영하고 있습니다. [PAWN_pronoun]에게 많은 가축들이 있지만, 오염된 함선의 추락으로 이제는 과거 이야기에 불과합니다.</Ratkin_Shepherd.description>
+  <Ratkin_Shepherd.description>[PAWN_nameDef](은)는 목장을 운영하고 있습니다. [PAWN_pronoun]에게 많은 가축들이 있지만, 오염된 함선의 추락으로 이제는 과거 이야기에 불과합니다.</Ratkin_Shepherd.description>
   <Ratkin_Civil.title>랫킨 시민</Ratkin_Civil.title>
   <Ratkin_Civil.titleShort>시민</Ratkin_Civil.titleShort>
   <Ratkin_Civil.description>[PAWN_nameDef](은)는 랫킨 왕국의 시민입니다. [PAWN_pronoun]는 소일거리들을 하며 왕국 내에서 삶을 영위해왔습니다.</Ratkin_Civil.description>
   <Ratkin_Noble.title>랫킨 귀족</Ratkin_Noble.title>
   <Ratkin_Noble.titleShort>귀족</Ratkin_Noble.titleShort>
-  <Ratkin_Noble.description>[PAWN_nameDef](은)는 랫킨 왕국의 귀족입니다. 하지만 정치적 사건에 휘말려 망명을 할 수밖에 없었고, [PAWN_pronoun]는 언젠가 다시 돌아가기 위해 방랑생활을 하게 되었습니다.</Ratkin_Noble.description>
+  <Ratkin_Noble.description>[PAWN_nameDef](은)는 랫킨 왕국의 귀족입니다. 하지만 [PAWN_pronoun]는 정치 스캔들에 휘말려 망명을 할 수밖에 없었고, 언젠가 다시 돌아가기 위해 방랑생활을 하게 되었습니다.</Ratkin_Noble.description>
   <Ratkin_CityMerchant.title>랫킨 도시 상인</Ratkin_CityMerchant.title>
   <Ratkin_CityMerchant.titleShort>도시 상인</Ratkin_CityMerchant.titleShort>
   <Ratkin_CityMerchant.description>[PAWN_nameDef](은)는 도시에서 장사하는 상인입니다. [PAWN_pronoun]는 손재주가 좋아 시장에서 이것저것 물건을 팔았습니다.</Ratkin_CityMerchant.description>
@@ -111,7 +111,7 @@
   <Ratkin_KnightCommander.description>[PAWN_nameDef](은)는 선택받은 랫킨 왕국의 기사입니다. 기사단 전통에 따라 기사단장의 후계자는 시골 출신의 기사들 중 선출됩니다.</Ratkin_KnightCommander.description>
   <Ratkin_Teacher.title>랫킨 선생님</Ratkin_Teacher.title>
   <Ratkin_Teacher.titleShort>선생님</Ratkin_Teacher.titleShort>
-  <Ratkin_Teacher.description>[PAWN_nameDef](은)는 아이들을 가르치는 교사입니다. 하지만 어린이들이 모두 떠난 시골마을에서 할 수 있는 것은 없기에, [PAWN_pronoun]는 꿈이 있는 새로운 터전을 찾기 위해 떠나야 했습니다.</Ratkin_Teacher.description>
+  <Ratkin_Teacher.description>[PAWN_nameDef](은)는 아이들을 가르치는 교사입니다. 하지만 어린이들이 모두 떠난 시골마을에서 할 수 있는 것은 없기에, [PAWN_pronoun]도 꿈이 있는 새로운 터전을 찾기 위해 떠나야 했습니다.</Ratkin_Teacher.description>
   <Ratkin_Blacksmith.title>랫킨 대장장이</Ratkin_Blacksmith.title>
   <Ratkin_Blacksmith.titleShort>대장장이</Ratkin_Blacksmith.titleShort>
   <Ratkin_Blacksmith.description>[PAWN_nameDef](은)는 무기나 도구를 만드는 대장장이입니다. [PAWN_pronoun]는 더 강한 재료를 찾기 위해 모험을 떠났습니다.</Ratkin_Blacksmith.description>
@@ -141,13 +141,13 @@
   <Ratkin_Doctor.description>[PAWN_nameDef](은)는 왕국의 의사였지만 귀족을 살리지 못해 변방으로 추방되었습니다. [PAWN_pronoun]는 자신이 틀리지 않음을 입증하기 위해 이곳저곳을 다니며 자신의 의학 기술을 연마하려 했습니다.</Ratkin_Doctor.description>
   <Ratkin_ArmySurgeon.title>랫킨 의무관</Ratkin_ArmySurgeon.title>
   <Ratkin_ArmySurgeon.titleShort>의무관</Ratkin_ArmySurgeon.titleShort>
-  <Ratkin_ArmySurgeon.description>[PAWN_nameDef](은)는 전쟁터 속에서 랫킨을 살리는 의사였습니다. [PAWN_pronoun]는 작은 생명이라도 동족이라는 사명감으로 자원하였지만, 결국 바뀌는 것이 없다는 사실에 떠났습니다.</Ratkin_ArmySurgeon.description>
+  <Ratkin_ArmySurgeon.description>[PAWN_nameDef](은)는 전쟁터 속에서 랫킨을 살리는 의사였습니다. [PAWN_pronoun]는 소모품으로 여겨지는 생명이라도 동족이라는 사명감으로 자원하였지만, 결국 바뀌는 것이 없다는 사실에 떠났습니다.</Ratkin_ArmySurgeon.description>
   <Ratkin_ConstructionWorker.title>랫킨 건설 노동자</Ratkin_ConstructionWorker.title>
   <Ratkin_ConstructionWorker.titleShort>건설 노동자</Ratkin_ConstructionWorker.titleShort>
   <Ratkin_ConstructionWorker.description>[PAWN_nameDef](은)는 건축현장에서 일하는 노동자입니다. [PAWN_pronoun]는 주로 지하 갱도를 건설하는 일을 해왔습니다.</Ratkin_ConstructionWorker.description>
   <Ratkin_Rich.title>랫킨 대부호</Ratkin_Rich.title>
   <Ratkin_Rich.titleShort>대부호</Ratkin_Rich.titleShort>
-  <Ratkin_Rich.description>[PAWN_nameDef](은)는 남을 속여 돈을 버는데 뛰어난 재능이 있었습니다. 하지만 머지않아 탄로나게 되었고, [PAWN_pronoun]는 도망을 쳐야 할 수밖에 없었습니다.</Ratkin_Rich.description>
+  <Ratkin_Rich.description>[PAWN_nameDef](은)는 남을 속여 돈을 버는데 뛰어난 재능이 있었습니다. 하지만 머지않아 들통나게 되었고, [PAWN_pronoun]는 도망을 쳐야 할 수밖에 없었습니다.</Ratkin_Rich.description>
   <Ratkin_Sister.title>랫킨 수녀</Ratkin_Sister.title>
   <Ratkin_Sister.titleShort>수녀</Ratkin_Sister.titleShort>
   <Ratkin_Sister.description>[PAWN_nameDef](은)는 수녀로 랫킨사회에서 제사나 종교적인 일들을 맡아왔습니다. [PAWN_pronoun]는 종교행사를 위해 먼 곳을 이동하던 중 습격을 받았지만, 다행히 가까스로 탈출할 수 있었습니다.</Ratkin_Sister.description>
