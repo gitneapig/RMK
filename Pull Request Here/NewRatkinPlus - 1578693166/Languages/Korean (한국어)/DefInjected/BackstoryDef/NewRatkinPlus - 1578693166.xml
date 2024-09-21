@@ -25,7 +25,7 @@
   <Ratkin_LittleLibrarian.description>사서를 부모로 둔 [PAWN_nameDef](은)는 책 더미 속에서 지냈습니다. [PAWN_pronoun]의 학문 수준은 많은 책을 통해 더 깊게 넓혀주었지만, 덕분에 안경 없이는 보기 힘든 시력을 갖게 되었습니다.</Ratkin_LittleLibrarian.description>
   <Ratkin_GoldenSpoon.title>랫킨 금수저</Ratkin_GoldenSpoon.title>
   <Ratkin_GoldenSpoon.titleShort>금수저</Ratkin_GoldenSpoon.titleShort>
-  <Ratkin_GoldenSpoon.description>[PAWN_nameDef](은)는 부유한 가문에서 태어났습니다. [PAWN_pronoun]는 다양한 미술품 사이에서 금지옥엽으로 자랐기 때문에 할 줄 아는 것은 그리 많지 않습니다.</Ratkin_GoldenSpoon.description>
+  <Ratkin_GoldenSpoon.description>[PAWN_nameDef](은)는 부유한 집안에서 태어났습니다. [PAWN_pronoun]는 다양한 미술품 사이에서 금지옥엽으로 자랐기 때문에 할 줄 아는 것은 그리 많지 않습니다.</Ratkin_GoldenSpoon.description>
   <Ratkin_Bastard.title>랫킨 서자</Ratkin_Bastard.title>
   <Ratkin_Bastard.titleShort>서자</Ratkin_Bastard.titleShort>
   <Ratkin_Bastard.description>[PAWN_nameDef](은)는 첩의 자식으로 태어났습니다. [PAWN_pronoun]는 서자의 삶을 원치 않기에 스스로의 길을 개척하고자 떠났습니다.</Ratkin_Bastard.description>
